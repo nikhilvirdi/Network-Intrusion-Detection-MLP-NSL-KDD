@@ -1,4 +1,4 @@
-## Network Intrusion Detection — MLP (NSL-KDD Dataset)
+## Network Intrusion Detection MLP (NSL-KDD Dataset)
 
 A multi-layer perceptron built in PyTorch to classify network connection records as normal or one of several attack categories, using the NSL-KDD dataset (125,973 training records, 22,544 test records, 41 features).
 
