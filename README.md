@@ -1,5 +1,8 @@
 ## Network Intrusion Detection MLP (NSL-KDD Dataset)
 
+<img width="300" alt="nslkdddlogo" src="https://github.com/user-attachments/assets/8aad9a49-fb66-4b9b-a55a-13a61a6ff448" />
+
+
 A multi-layer perceptron built in PyTorch to classify network connection records as normal or one of several attack categories, using the NSL-KDD dataset (125,973 training records, 22,544 test records, 41 features).
 
 Built as a hands-on project to learn core deep learning fundamentals: the forward/backward pass, loss functions and optimizers (cross-entropy, Adam), and overfitting and regularization. NSL-KDD's test set is deliberately harder than its training set, so there's a real generalization gap to observe here rather than a hypothetical one.
